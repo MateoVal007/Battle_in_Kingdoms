@@ -1,0 +1,59 @@
+# Unity: basado en github/gitignore/Unity.gitignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+.utmp/
+# Herramientas y archivos regenerados por Unity/IDE
+.vs/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+*.log
+/sysinfo.txt
+/crashlytics-build.properties
+/Assets/Plugins/Editor/JetBrains*
+# Exportaciones generadas; conservar sus fuentes
+*.apk
+*.aab
+*.unitypackage
+*.app/
+# Backups de herramientas, no modelos originales
+*.blend1
+*.blend2
+*.orig
+*.rej
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+Desktop.ini
+# Credenciales locales: no excluir indiscriminadamente configuracion compartida
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.pfx
+*.p12
+# Assets, .meta, Packages y ProjectSettings SI se versionan.
+# No ignorar *.dll: pueden ser dependencias reales dentro de Assets/Plugins.

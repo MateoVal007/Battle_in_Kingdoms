@@ -1,0 +1,10 @@
+#!/bin/sh
+# Comprueba el contenido preparado, no agrega ni modifica archivos.
+if command -v pwsh >/dev/null 2>&1; then
+  exec pwsh -NoProfile -File tools/Check-UnityRepository.ps1 -Staged
+elif command -v powershell.exe >/dev/null 2>&1; then
+  exec powershell.exe -NoProfile -ExecutionPolicy Bypass -File tools/Check-UnityRepository.ps1 -Staged
+else
+  echo "Falta PowerShell para comprobar este proyecto. Instala pwsh o ejecuta la revision manual." >&2
+  exit 1
+fi

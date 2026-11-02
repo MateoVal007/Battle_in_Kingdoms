@@ -1,0 +1,40 @@
+# Normalizar texto sin intentar fusionar archivos binarios.
+* text=auto
+*.cs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.mat text=auto eol=lf
+*.asset text=auto eol=lf
+*.controller text=auto eol=lf
+*.anim text=auto eol=lf
+*.shader text eol=lf
+*.hlsl text eol=lf
+*.uss text eol=lf
+*.uxml text eol=lf
+*.ps1 text eol=lf
+.githooks/* text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.exr binary
+*.fbx binary
+*.glb binary
+*.blend binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.mp4 binary
+*.dll binary
+*.ttf binary
+*.otf binary
+# No usar merge=union en escenas, prefabs o scripts.
+# Git LFS no se activa automaticamente: evaluar tamano y cuota antes.
