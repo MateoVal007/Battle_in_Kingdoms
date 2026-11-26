@@ -1,0 +1,5 @@
+survival-v6-1121-host.txt
+PASS Two processes: single-player T revive retained; team wipe with 7 spare lives each latched defeat; T/R could not rescue run; auto retry restored wave zero, full health, lives, items and kept the same 2-player Photon session.
+
+survival-v6-1121-client.txt
+PASS Two processes: single-player T revive retained; team wipe with 7 spare lives each latched defeat; T/R could not rescue run; auto retry restored wave zero, full health, lives, items and kept the same 2-player Photon session.

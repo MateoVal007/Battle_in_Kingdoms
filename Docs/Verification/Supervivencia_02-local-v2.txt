@@ -1,0 +1,8 @@
+PASS
+Click-to-move: ground to first floor via stairs
+Shared camera: full north/south separation, both bodies visible above/below HUD
+Mouse projection: lower ground click resolves a navigable destination
+Jump: rises over 1.5m while moving south, lands back on navigation
+Eight-direction aim, F basic without charges, R ice/fire/protection, shield durability, 3-second recovery, revive priority, shared stars and personal extra life
+Final giant: telegraphed mace strike and real damage
+All 5 waves: 40 enemies, pending spawns respected, max 6 simultaneous, 30s rests, supplies refreshed, exit opens only at victory

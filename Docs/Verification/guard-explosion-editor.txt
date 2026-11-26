@@ -1,0 +1,4 @@
+PASS Unity principal 6000.5.6f1: Pueblo_01_Blockout importó y arrancó en Play.
+Consola durante la prueba: 0 errores, 0 advertencias de ejecución. Editor dejado detenido.
+Compilación actualizada: Succeeded, errors=0. Shader de explosión incluido.
+Check-UnityRepository.ps1: OK. Siete archivos de producción entregados, con GUID preservados.

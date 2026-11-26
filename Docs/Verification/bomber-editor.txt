@@ -1,0 +1,4 @@
+PASS Proyecto principal: Unity 6000.5.6f1, Supervivencia_02 importada y ejecutada en Play.
+Primera horda con los modelos nuevos observada. Consola de ejecución: 0 errores, 0 advertencias.
+Editor dejado detenido, sin cambios de escena pendientes.
+Check-UnityRepository.ps1: OK en metadatos, GUID, conflictos y configuración.

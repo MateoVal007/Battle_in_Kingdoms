@@ -1,0 +1,31 @@
+Role: Host
+Players: 2
+Transport: Photon Fusion Host/Client
+Host flags: -1
+PASS host: connection, inputs, chest, revival, gate, postures, inventory, slope, pursuit, arrows, whip, enemy death
+PASS both player positions replicated
+PASS chest opening replicated
+PASS defeat and revival replicated
+PASS cooperative gate replicated
+PASS starting equipment pickup replicated
+PASS crouch and overhead shield replicated
+PASS item selection, activation and remaining charge replicated
+PASS pursuing enemy position replicated
+PASS hill archer arrow replicated
+PASS whip attack warning replicated
+PASS defeated guardian removed on both peers
+PASS equipment wear and loss replicated
+PASS patrol and guardian return on host
+PASS personal star counter replicated
+PASS shared stars disappear and cannot be collected again
+PASS extra-life input and revival replicated
+PASS damage recovery replicated
+PASS round mage protection visible on both peers
+PASS mage crouches and fires on both peers
+PASS sequential lift request, carried movement, release and elevated seal
+PASS automatic release after seven seconds
+PASS out-of-range acceptance rejected and request expires after ten seconds
+PASS both players walk the fortress with one threshold jump
+PASS ranged dagger hit, three blocked magic shots break shield, fourth hits guard
+PASS 20 damage costs 10 HP with armor and 20 HP after it breaks
+PASS both secret chambers reached with the lift, opened and looted

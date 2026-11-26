@@ -1,0 +1,1 @@
+PASS chest hit once; extra-life model spawned; collection awards exactly +1 to collector; no duplicate reward; chest reset; fire book enchantment pickup; no runtime prop errors

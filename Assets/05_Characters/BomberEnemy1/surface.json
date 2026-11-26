@@ -1,0 +1,16 @@
+{
+  "surfaces": [
+    {
+      "name": "Bomber_Enemy1_Mat",
+      "color": [
+        0.9,
+        0.9,
+        0.9,
+        1.0
+      ],
+      "metal": 0.0,
+      "base": "Bomber_Enemy1_base.png",
+      "normal": "Bomber_Enemy1_normal.png"
+    }
+  ]
+}

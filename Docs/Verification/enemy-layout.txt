@@ -1,0 +1,2 @@
+PASS both scenes: stationary hill archer x41.8; pursuers; whip guardian x114 after checkpoint99.
+2026-11-05T04:25:24

@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 6d9ebbe083b557642a01aea7a3888329
+ModelImporter:
+  serializedVersion: 24501
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escudo_Interior_Reparado
+    second: {fileID: 2100000, guid: 1969dd693648a274eb1e357ad732199b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuerreroArmadura_Base
+    second: {fileID: 2100000, guid: 8f04e509b690bcd4fa4ca52dea9d464d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuerreroArmadura_Brazo
+    second: {fileID: 2100000, guid: f60a0c43280f74249b41669fd4cc8996, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Guerrero_Equipo|BlockImpact
+      takeName: Guerrero_Equipo|BlockImpact
+      internalID: -3543722562524411487
+      firstFrame: 0
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|CrouchDown
+      takeName: Guerrero_Equipo|CrouchDown
+      internalID: 1869131194323253550
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|CrouchIdle
+      takeName: Guerrero_Equipo|CrouchIdle
+      internalID: 8957629903706518830
+      firstFrame: 0
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|Guard
+      takeName: Guerrero_Equipo|Guard
+      internalID: -1416905346352826551
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|GuardCrouch
+      takeName: Guerrero_Equipo|GuardCrouch
+      internalID: 1628829667206940300
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|GuardCrouch.001
+      takeName: Guerrero_Equipo|GuardCrouch.001
+      internalID: 914291317283097848
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|GuardRaise
+      takeName: Guerrero_Equipo|GuardRaise
+      internalID: -6403803787718008472
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|HitEquipped
+      takeName: Guerrero_Equipo|HitEquipped
+      internalID: 3696894780949049670
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|Idle_Respiracion_4s
+      takeName: Guerrero_Equipo|Idle_Respiracion_4s
+      internalID: 3737581072989695896
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|IdleEquipped
+      takeName: Guerrero_Equipo|IdleEquipped
+      internalID: -3455953958182763869
+      firstFrame: 0
+      lastFrame: 144
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|JumpEquipped
+      takeName: Guerrero_Equipo|JumpEquipped
+      internalID: 2096900214049002971
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|LandEquipped
+      takeName: Guerrero_Equipo|LandEquipped
+      internalID: -1763273256501115103
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|PoseOriginal
+      takeName: Guerrero_Equipo|PoseOriginal
+      internalID: 4957697793114285541
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|PrepareEquipped
+      takeName: Guerrero_Equipo|PrepareEquipped
+      internalID: 4154818530200243033
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|ReadyEquipped
+      takeName: Guerrero_Equipo|ReadyEquipped
+      internalID: 835373269375804700
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|RunEquipped
+      takeName: Guerrero_Equipo|RunEquipped
+      internalID: 1772361307178239795
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|SwordSlash
+      takeName: Guerrero_Equipo|SwordSlash
+      internalID: 5811190972808721564
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Guerrero_Equipo|WalkEquipped
+      takeName: Guerrero_Equipo|WalkEquipped
+      internalID: -7001381539417034911
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: GuerreroArmaduraJugable
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Guerrero_Armadura_Original
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Guerrero_Equipo
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Hips
+      parentName: 
+      position: {x: -4.2171572e-11, y: 0.0003200002, z: 0.0090999985}
+      rotation: {x: 0.7524294, y: 0.011753953, z: -0.013431954, w: 0.658431}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: LeftUpperLeg
+      parentName: 
+      position: {x: -0.0012167245, y: -0.0001788271, z: -0.00048052342}
+      rotation: {x: 0.0103266975, y: 0.19762352, z: 0.9685063, w: 0.15110879}
+      scale: {x: 1, y: 0.9999999, z: 1.0000002}
+    - name: LeftLowerLeg
+      parentName: 
+      position: {x: 4.872684e-10, y: 0.0034551555, z: 9.313226e-10}
+      rotation: {x: -0.24284197, y: 0.0035348542, z: 0.17354253, w: 0.9544099}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: LeftFoot
+      parentName: 
+      position: {x: -9.439511e-10, y: 0.004497376, z: -2.0780135e-10}
+      rotation: {x: 0.5151205, y: 0.36803487, z: -0.14498581, w: 0.7603817}
+      scale: {x: 0.9999996, y: 1, z: 1.0000001}
+    - name: LeftToes
+      parentName: 
+      position: {x: -3.0260533e-10, y: 0.0015477078, z: 3.8649886e-10}
+      rotation: {x: 0.29986197, y: 0.031961367, z: -0.10105298, w: 0.9480768}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999999}
+    - name: RightUpperLeg
+      parentName: 
+      position: {x: 0.0011506948, y: 0.00006739258, z: 0.000495438}
+      rotation: {x: -0.020626197, y: 0.31532657, z: 0.94266146, w: -0.10739196}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: RightLowerLeg
+      parentName: 
+      position: {x: 2.0861633e-10, y: 0.0037111866, z: -5.5879353e-11}
+      rotation: {x: -0.28006446, y: 0.015849274, z: 0.06831263, w: 0.9574164}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: RightFoot
+      parentName: 
+      position: {x: -4.1145828e-10, y: 0.0045958343, z: 3.1664968e-10}
+      rotation: {x: 0.44711223, y: -0.11200202, z: -0.1261566, w: 0.8784252}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: RightToes
+      parentName: 
+      position: {x: 6.1318295e-10, y: 0.0014993992, z: -1.6763806e-10}
+      rotation: {x: 0.33561268, y: 0.006384408, z: -0.018840156, w: 0.94179004}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Spine
+      parentName: 
+      position: {x: -1.2311618e-10, y: 0.0011307076, z: -3.3542163e-10}
+      rotation: {x: -0.040093113, y: -0.0018520396, z: -0.019869545, w: 0.9989967}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Chest
+      parentName: 
+      position: {x: 4.726462e-11, y: 0.0013256355, z: 7.243216e-11}
+      rotation: {x: -0.01866476, y: 0.00062963506, z: 0.018424595, w: 0.99965584}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: UpperChest
+      parentName: 
+      position: {x: 3.769993e-11, y: 0.0012911209, z: 3.6308848e-10}
+      rotation: {x: 0.102825455, y: 0.0056267437, z: 0.047214027, w: 0.99356234}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulder
+      parentName: 
+      position: {x: 0.000002657026, y: 0.0011085937, z: -0.00013716977}
+      rotation: {x: -0.19341964, y: -0.051564112, z: 0.7378458, w: 0.6446035}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000001}
+    - name: LeftUpperArm
+      parentName: 
+      position: {x: -5.487352e-10, y: 0.0020652125, z: -1.11758706e-10}
+      rotation: {x: 0.14916219, y: -0.10014294, z: 0.5483308, w: 0.8167346}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: LeftLowerArm
+      parentName: 
+      position: {x: 5.41138e-10, y: 0.0026340093, z: 8.660342e-11}
+      rotation: {x: 0.15400846, y: -0.0091832355, z: -0.058809735, w: 0.9862751}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: LeftHand
+      parentName: 
+      position: {x: -0.0000000012032687, y: 0.0018040504, z: 8.0093737e-10}
+      rotation: {x: -0.050011583, y: 0.055683, z: 0.21055658, w: 0.9747124}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Neck
+      parentName: 
+      position: {x: -3.2559036e-10, y: 0.0012731459, z: -5.8600563e-10}
+      rotation: {x: 0.09482876, y: 0.011110306, z: 0.0338924, w: 0.99485445}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Head
+      parentName: 
+      position: {x: 4.4573098e-10, y: 0.0011992101, z: 5.3572874e-10}
+      rotation: {x: -0.19157773, y: -0.010120078, z: -0.04550732, w: 0.9803697}
+      scale: {x: 0.99999976, y: 0.9999997, z: 0.9999998}
+    - name: RightShoulder
+      parentName: 
+      position: {x: 0.0000026568584, y: 0.0011085913, z: -0.00013716925}
+      rotation: {x: -0.0047743022, y: -0.15647437, z: -0.7175513, w: 0.67868483}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: RightUpperArm
+      parentName: 
+      position: {x: -0.0000000014102552, y: 0.0022795391, z: 2.7939677e-11}
+      rotation: {x: 0.015774298, y: -0.121376656, z: -0.5268669, w: 0.84108865}
+      scale: {x: 1, y: 0.99999976, z: 1}
+    - name: RightLowerArm
+      parentName: 
+      position: {x: -1.8760563e-10, y: 0.0026367023, z: 4.0978193e-10}
+      rotation: {x: 0.022696584, y: 0.013446097, z: 0.04898312, w: 0.9984512}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: RightHand
+      parentName: 
+      position: {x: 0.0000000010992586, y: 0.002233408, z: -3.352761e-10}
+      rotation: {x: 0.010013091, y: -0.040367544, z: -0.13015643, w: 0.9906208}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

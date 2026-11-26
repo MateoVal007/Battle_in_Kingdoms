@@ -1,0 +1,1 @@
+PASS 100 alternating attacks; .48s complete before .52s equipped cooldown; weapon visibility; recovery; death interruption; no duplicate objects; weapons use rigid meshes; equipment-loss interruption; damage tint cleared

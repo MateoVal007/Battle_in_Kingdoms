@@ -24,6 +24,7 @@
 *.booproj
 *.svd
 *.pdb
+*.pdb.meta
 *.mdb
 *.opendb
 *.VC.db
@@ -36,6 +37,13 @@
 *.apk
 *.aab
 *.unitypackage
+*.unitypackage.meta
+# Respaldo automatico temporal de Unity
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+# Fuentes .glb crudas ya respaldadas en JUEGO_FINAL/Modelos (Unity usa los .fbx/.obj optimizados)
+Assets/07_Models/**/*.glb
+Assets/07_Models/**/*.glb.meta
 *.app/
 # Backups de herramientas, no modelos originales
 *.blend1

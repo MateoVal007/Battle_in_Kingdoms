@@ -1,0 +1,4 @@
+Modular Lowpoly Medieval Environment — Satendra Saraswat
+https://sketchfab.com/3d-models/modular-lowpoly-medieval-environment-5bf0a1562b7e401e9e6d7758ec54d09c
+CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Adapted for Battle in Kingdoms: grouped meshes, centered pivots, vegetation patches, Unity materials and prefabs.

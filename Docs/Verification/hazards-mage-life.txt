@@ -1,0 +1,1 @@
+PASS slope spike triggers covered; spikes and poison damage both characters; recovery immunity retained; mage life chest spawns correct model; warrior cannot consume it; mage receives exactly +1; poison movement unchanged

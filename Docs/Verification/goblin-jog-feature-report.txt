@@ -1,0 +1,1 @@
+PASS Pueblo: 3 mid-level goblins, pursuit and knife hit, equipped Jog_Fwd. Survival: both heroes walk off side galleries, fall and land without JumpSerial; north terrace fall; goblin pursuit, knife hit and ice susceptibility; equipped Jog_Fwd. Proceeding to full regression.

@@ -1,0 +1,1 @@
+PASS star rotation; shared pickup once; 100 stars award a life; all model renderers hide and reset; no runtime star errors

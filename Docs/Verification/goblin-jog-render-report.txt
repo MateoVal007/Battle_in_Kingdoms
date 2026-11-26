@@ -1,0 +1,1 @@
+PASS Jog_Fwd sampled laterally in both directions with rigid sword/shield; goblin walk, knife attack, hit and fall rendered.

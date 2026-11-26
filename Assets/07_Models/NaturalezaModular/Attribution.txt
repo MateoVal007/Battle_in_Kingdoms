@@ -1,0 +1,5 @@
+Low poly Stylized Nature Pack
+Satendra Saraswat (https://sketchfab.com/satendra5286)
+https://sketchfab.com/3d-models/low-poly-stylized-nature-pack-9c773e846c6e4448b26b2cdecb2b91bf
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Adaptacion: piezas separadas, pivotes centrados y prefabs Unity.

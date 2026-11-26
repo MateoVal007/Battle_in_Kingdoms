@@ -1,0 +1,1 @@
+PASS Two processes: Bomber retreat, bomb flight/explosion and freeze after shield destruction replicated; equipped Jog_Fwd and larger Goblin retained; both heroes walk off upper galleries without jumping and land physically; armor break, individual T revive, shared pickups and automatic team retry remain synchronized.

@@ -1,0 +1,5 @@
+assets-1121-host.txt
+PASS Two processes: relocated runtime prefabs loaded; armor-breaking block plays ShieldBreak on host and remote client; single-player T revive retained; team wipe with spare lives restarts in the same Photon session.
+
+assets-1121-client.txt
+PASS Two processes: relocated runtime prefabs loaded; armor-breaking block plays ShieldBreak on host and remote client; single-player T revive retained; team wipe with spare lives restarts in the same Photon session.

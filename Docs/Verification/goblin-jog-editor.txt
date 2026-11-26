@@ -1,0 +1,6 @@
+PASS Unity 6000.5.6f1, proyecto principal Battle in Kingdoms.
+Cambios importados y compilados. Supervivencia_02 inició en Play.
+Movimiento por clic, recogida de armadura (60) y primera horda observados.
+Consola durante y después de Play: 0 errores, 0 advertencias de ejecución.
+Editor dejado detenido, sin cambios de escena pendientes.
+Repositorio: Check-UnityRepository.ps1 terminó OK (metas, GUID y conflictos).

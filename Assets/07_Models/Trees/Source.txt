@@ -1,0 +1,5 @@
+Low Poly Trees
+Chenuka Wijesundara (https://sketchfab.com/ChenukaWijesundara)
+https://sketchfab.com/3d-models/low-poly-trees-c9bf9c8d3619472f8672464447815a66
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Adaptacion para Battle in Kingdoms: nodos de hojas fusionados en una sola malla normalizada (8 m de altura), texturas de hojas convertidas a RGBA con recorte alfa limpio.

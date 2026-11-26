@@ -1,0 +1,1 @@
+PASS Two processes: equipped Jog_Fwd and Goblin replicated; both heroes walk off upper galleries without jumping and land physically; armor break, individual T revive, shared pickups and automatic team retry remain synchronized.

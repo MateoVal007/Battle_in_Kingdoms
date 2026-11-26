@@ -1,0 +1,2 @@
+Host: PASS Platform host/client: freeze duration replicated, frozen enemy stayed still and thawed.
+Client: PASS Platform host/client: freeze duration replicated, frozen enemy stayed still and thawed.

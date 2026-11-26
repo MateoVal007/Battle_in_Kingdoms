@@ -1,0 +1,10 @@
+PASS
+24 replenishing supplies: 11 ground, 4 west gallery, 5 east gallery, 4 terrace; no shop row
+Click-to-move: ground to first floor via stairs
+Both heroes physically navigate from the plaza up the new left and right gallery stairs
+Shared camera: full north/south separation, both bodies visible above/below HUD
+Mouse projection: lower ground click resolves a navigable destination
+Jump: rises over 1.5m while moving south, lands back on navigation
+Eight-direction aim, F basic without charges, R ice/fire/protection, shield durability, 3-second recovery, collector-only health and T life consumption, nearest-player retargeting, shared stars and personal extra life
+Final giant: telegraphed mace strike and real damage
+All 5 waves: 40 enemies, pending spawns respected, max 6 simultaneous, 30s rests, supplies refreshed, exit opens only at victory

@@ -1,0 +1,5 @@
+Cave Rocks
+Splanyic (https://sketchfab.com/splanyic)
+https://sketchfab.com/3d-models/cave-rocks-4101c07c6a754f85962c6b516af4713a
+CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+Adaptacion: piezas separadas, pivotes centrados y prefabs Unity.

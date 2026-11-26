@@ -1,0 +1,16 @@
+{
+  "surfaces": [
+    {
+      "name": "Material.003",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metal": 0.0,
+      "base": "Material.003_base.png",
+      "normal": "Material.003_normal.png"
+    }
+  ]
+}

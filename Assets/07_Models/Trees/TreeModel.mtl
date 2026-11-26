@@ -1,0 +1,12 @@
+# Material library for Battle in Kingdoms TreeModel.obj
+newmtl Tree_Bark
+Kd 1.0 1.0 1.0
+map_Kd Tree_Bark.jpg
+
+newmtl Tree_CanopyCore
+Kd 0.84 0.90 0.82
+map_Kd Tree_Leaves_Green.png
+
+newmtl Tree_LeafCards
+Kd 1.0 1.0 1.0
+map_Kd Tree_Leaves_Green.png

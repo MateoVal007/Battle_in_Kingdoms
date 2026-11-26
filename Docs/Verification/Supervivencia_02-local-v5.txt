@@ -1,0 +1,13 @@
+PASS
+24 replenishing supplies: 11 ground, 4 west gallery, 5 east gallery, 4 terrace; no shop row
+Click-to-move: ground to first floor via stairs
+Both heroes physically navigate from the plaza up the new left and right gallery stairs
+Shared camera: full north/south separation, both bodies visible above/below HUD
+Mouse projection: lower ground click resolves a navigable destination
+Both modes: 3s freeze, no movement/attacks, cyan tint and paused animation, thaw restores presentation; giants/shield types immune; kills grant no health/drops
+Jump: rises over 1.5m while moving south, lands back on navigation
+Supplies by round: 24/21/18/15/12; healing 35/30/25/20/15; life pickups 4/2/2/0/0; books 12 to 8; armor 60 to 44; carried resources preserved
+T: same death location, 100 HP, one life, 3s recovery; +40 shared navigable stars after each of 4 hordes; 100 stars grant own extra life; first-round basic damage 10, runner 8, dagger 9, giant 28
+Eight-direction aim, F basic without charges, R ice/fire/protection, shield durability, 3-second recovery, collector-only health and T life consumption, nearest-player retargeting, progressive supply budgets and refill values, shared stars and personal extra life
+Final giant: telegraphed mace strike and real damage
+All 5 waves: 40 enemies, pending spawns respected, max 6 simultaneous, 30s rests, supplies refreshed, exit opens only at victory

@@ -1,0 +1,17 @@
+PASS Guardián grande en plaza con 240 HP
+PASS Guardián tras checkpoint y antes del molino
+PASS Persigue más allá del antiguo límite de 4 m (x=102,2791)
+PASS Elige jugador vivo y mantiene objetivo
+PASS Ignora derribado y persigue compañero vivo
+PASS Arquero avisa antes de disparar
+PASS Arquero dispara flechas desde altura
+PASS Arquero permanece fijo en su montaña
+PASS Latigazo telegrafiado sin daño anticipado
+PASS Latigazo inflige 25 HP una vez
+PASS No repite daño durante recuperación
+PASS Escudo frontal bloquea látigo
+PASS Guardián derrotado deja de atacar
+PASS Enemigo terrestre respeta borde del arroyo
+PASS Perseguidor no atraviesa paredes
+PASS Escudo superior bloquea flecha descendente
+PASS Resultado completo de enemigos

@@ -1,0 +1,1 @@
+PASS Pueblo, two processes: Bomber model, retreat while throwing, ballistic bomb and explosion replicated; real blast damage and freezing after shield destruction synchronized.

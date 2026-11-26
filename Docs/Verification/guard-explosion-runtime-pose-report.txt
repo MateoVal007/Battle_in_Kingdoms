@@ -1,0 +1,1 @@
+PASS Runtime guard, crouch and shield impact captured in both directions; no transform stretching.

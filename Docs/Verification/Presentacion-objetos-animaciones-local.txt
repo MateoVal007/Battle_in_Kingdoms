@@ -1,0 +1,3 @@
+PASS Runtime resources remain available after prefab moves; potion heals and preserves lives in both levels; Pueblo standing Punch_Jab; armor breaking block starts ShieldBreak immediately, hides rigid weapons and returns to unarmored model; stationary archers use repaired model; survival potion, shield break and Punch_Jab work.
+
+PASS Humanoid Punch_Jab and Idle_Shield_Break sampled both directions; no oversized deformed meshes; rigid sword/shield; archer and potion render successfully

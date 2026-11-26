@@ -1,0 +1,17 @@
+PASS Cantidad reducida en grupos concretos: 108
+PASS Una estrella compartida solo cuenta para el primer jugador
+PASS Estrella recogida desaparece para ambos
+PASS Mago recoge otra estrella para su propio contador
+PASS 100 recogidas del guerrero dan vida solo al guerrero
+PASS Protección anula totalmente ataques y daño ambiental
+PASS Protección también evita daño al caer sobre enemigo
+PASS Al cambiar de magia vuelve a recibir daño
+PASS Mago se agacha con colisión reducida
+PASS Disparo básico sale bajo mientras el mago está agachado
+PASS Mago usa magia especial mientras se agacha
+PASS No se levanta atravesando un techo
+PASS Recupera postura cuando hay espacio
+PASS Un jugador solo en un piso no abre el paso
+PASS Estar en el aire sobre el piso no abre el paso
+PASS Ambos de pie abren sin mantener botones ni esperar tres segundos
+PASS Resultado completo v8

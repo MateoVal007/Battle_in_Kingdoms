@@ -1,0 +1,1 @@
+PASS Bomber clips sampled laterally in both directions; finite mesh and bounded limbs.

@@ -1,0 +1,4 @@
+HOST
+PASS Two processes: host warrior and remote mage movement; revive; personal extra life; shared pickup ownership; dagger shield; synchronized countdown.
+CLIENTE
+PASS Two processes: host warrior and remote mage movement; revive; personal extra life; shared pickup ownership; dagger shield; synchronized countdown.

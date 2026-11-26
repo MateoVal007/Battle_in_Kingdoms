@@ -1,0 +1,48 @@
+PASS Salto a 10 / cota 1,4 (real (9.93, 2.48, 0.00))
+PASS Salto a 14 / cota 2,8 (real (13.91, 3.88, 0.00))
+PASS Salto a 27 / cota 1,5 (real (26.98, 2.58, 0.00))
+PASS Salto a 31 / cota 2,9 (real (30.92, 3.98, 0.00))
+PASS Salto a 35 / cota 4,3 (real (34.94, 5.38, 0.00))
+PASS Salto a 39 / cota 4,3 (real (38.93, 5.38, 0.00))
+PASS Salto a 43 / cota 4,3 (real (42.93, 5.38, 0.00))
+PASS Salto a 50 / cota 1,5 (real (49.94, 2.58, 0.00))
+PASS Salto a 54 / cota 2,9 (real (53.95, 3.98, 0.00))
+PASS Salto a 58 / cota 4,3 (real (57.99, 5.38, 0.00))
+PASS Salto a 62 / cota 4,3 (real (61.98, 5.38, 0.00))
+PASS Salto a 66 / cota 2,8 (real (65.98, 3.88, 0.00))
+PASS Salto a 68,5 / cota 1,4 (real (68.41, 2.48, 0.00))
+PASS Salto a 71,5 / cota 2,8 (real (71.42, 3.88, 0.00))
+PASS Salto a 74,5 / cota 4,2 (real (74.44, 5.28, 0.00))
+PASS Salto a 78,5 / cota 4,2 (real (78.43, 5.28, 0.00))
+PASS Salto a 82,5 / cota 4,2 (real (82.45, 5.28, 0.00))
+PASS Salto a 86,5 / cota 4,2 (real (86.42, 5.28, 0.00))
+PASS Salto a 90,5 / cota 4,2 (real (90.44, 5.28, 0.00))
+PASS Salto a 94,5 / cota 2,8 (real (94.40, 3.88, 0.00))
+PASS Salto a 97,5 / cota 1,4 (real (97.45, 2.48, 0.00))
+PASS Salto a 81 / cota 0,6 (real (80.98, 1.68, 0.00))
+PASS Salto a 85 / cota -0,6 (real (84.98, 0.48, 0.00))
+PASS Salto a 89 / cota 0,6 (real (88.98, 1.68, 0.00))
+PASS Salto a 92 / cota 0,12 (real (91.93, 1.20, 0.00))
+PASS Salto a 85 / cota -0,6 (real (84.94, 0.48, 0.00))
+PASS Salto a 89 / cota 0,6 (real (88.93, 1.68, 0.00))
+PASS Salto a 123 / cota 1,4 (real (122.91, 2.48, 0.00))
+PASS Salto a 127 / cota 2,8 (real (126.93, 3.88, 0.00))
+PASS Salto a 145 / cota 1,4 (real (144.94, 2.48, 0.00))
+PASS Salto a 149 / cota 2,8 (real (148.98, 3.88, 0.00))
+PASS Salto a 153 / cota 4,2 (real (152.96, 5.28, 0.00))
+PASS Salto a 157 / cota 5,6 (real (156.91, 6.68, 0.00))
+PASS Salto a 161 / cota 4,2 (real (160.98, 5.28, 0.00))
+PASS Salto a 165 / cota 2,8 (real (164.97, 3.88, 0.00))
+PASS Salto a 172 / cota 1,5 (real (171.97, 2.58, 0.00))
+PASS Salto a 176 / cota 2,9 (real (175.99, 3.98, 0.00))
+PASS Salto a 180 / cota 4,3 (real (179.91, 5.38, 0.00))
+PASS Salto a 184 / cota 2,9 (real (184.00, 3.98, 0.00))
+PASS Salto a 188 / cota 1,4 (real (187.94, 2.48, 0.00))
+PASS Seis bloqueos gastan equipo; pierde espada y escudo sin daño de salud
+PASS Sin equipo ya no bloquea el siguiente golpe
+PASS Mantener escudo sin impactos no consume resistencia
+PASS Daño que rompe armadura también retira espada y escudo
+PASS Arquero dispara hacia abajo a jugador inferior
+PASS Todas las flechas tienen velocidad descendente
+PASS No dispara hacia arriba ni al jugador a su misma altura
+PASS Resultado completo v5

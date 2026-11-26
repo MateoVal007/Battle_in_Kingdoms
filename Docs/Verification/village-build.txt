@@ -1,0 +1,3 @@
+Scene generated in Unity 6000.5.6f1
+02/11/2026 10:49:16
+Objects: 675

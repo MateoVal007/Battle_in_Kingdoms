@@ -1,0 +1,4 @@
+PASS — Windows Unity Game view, manual input through desktop controls
+Left mouse click moved warrior from (-2.2,0.06,-9) to (8.19,0.06,-18.46); click serial 1.
+Tab selected mage (heroId=1); R restarted defeat, then a separate R cast fire (12 to 11); F preserved fire=11; Space raised jump serial to 1.
+Input System mouse remained (0,0); IMGUI scaled coordinates and keyboard fallback delivered the inputs.

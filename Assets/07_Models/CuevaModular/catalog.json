@@ -1,0 +1,198 @@
+[
+  {
+    "name": "S_CaveRock01_0",
+    "category": "Rocas",
+    "vertices": 202,
+    "triangles": 350,
+    "size": [
+      2.7118263244628906,
+      2.576735496520996,
+      3.0996415615081787
+    ],
+    "materials": [
+      "T_CaveSetGround"
+    ]
+  },
+  {
+    "name": "S_CaveRock02_1",
+    "category": "Rocas",
+    "vertices": 185,
+    "triangles": 330,
+    "size": [
+      6.209430694580078,
+      5.066035270690918,
+      1.676426649093628
+    ],
+    "materials": [
+      "T_CaveSetGround"
+    ]
+  },
+  {
+    "name": "S_CaveRock03_2",
+    "category": "Rocas",
+    "vertices": 82,
+    "triangles": 142,
+    "size": [
+      3.3496265411376953,
+      3.199483871459961,
+      0.7940382361412048
+    ],
+    "materials": [
+      "T_CaveSetGround"
+    ]
+  },
+  {
+    "name": "S_CaveRockColumn_3",
+    "category": "Columnas",
+    "vertices": 158,
+    "triangles": 252,
+    "size": [
+      1.7244577407836914,
+      1.743967056274414,
+      5.593893527984619
+    ],
+    "materials": [
+      "T_CaveSetGround"
+    ]
+  },
+  {
+    "name": "S_CaveRockSpear01_4",
+    "category": "Estalagmitas",
+    "vertices": 158,
+    "triangles": 252,
+    "size": [
+      1.047079086303711,
+      1.0524520874023438,
+      3.567511558532715
+    ],
+    "materials": [
+      "T_CaveSetGround"
+    ]
+  },
+  {
+    "name": "S_CaveRockSpear03_5",
+    "category": "Estalagmitas",
+    "vertices": 242,
+    "triangles": 363,
+    "size": [
+      1.1297831535339355,
+      1.2814750671386719,
+      2.5540077686309814
+    ],
+    "materials": [
+      "T_CaveSetGround"
+    ]
+  },
+  {
+    "name": "S_CaveRockSpear04_6",
+    "category": "Estalagmitas",
+    "vertices": 338,
+    "triangles": 459,
+    "size": [
+      1.1833696365356445,
+      1.183711051940918,
+      1.0853372812271118
+    ],
+    "materials": [
+      "T_CaveSetGround"
+    ]
+  },
+  {
+    "name": "S_CaveTopSpears01_7",
+    "category": "Techo",
+    "vertices": 702,
+    "triangles": 1182,
+    "size": [
+      4.537386894226074,
+      3.7321996688842773,
+      2.602330207824707
+    ],
+    "materials": [
+      "T_CaveSetTop"
+    ]
+  },
+  {
+    "name": "S_CaveTopSpears02_8",
+    "category": "Techo",
+    "vertices": 3032,
+    "triangles": 5192,
+    "size": [
+      10.957160949707031,
+      8.862876892089844,
+      6.0017266273498535
+    ],
+    "materials": [
+      "T_CaveSetTop"
+    ]
+  },
+  {
+    "name": "S_CaveWallCorner01_9",
+    "category": "Paredes",
+    "vertices": 921,
+    "triangles": 1740,
+    "size": [
+      8.23354721069336,
+      3.2156267166137695,
+      6.49726676940918
+    ],
+    "materials": [
+      "T_CaveSetWall02"
+    ]
+  },
+  {
+    "name": "S_CaveWallCorner02_10",
+    "category": "Paredes",
+    "vertices": 873,
+    "triangles": 1564,
+    "size": [
+      7.430477142333984,
+      3.0344901084899902,
+      6.720222473144531
+    ],
+    "materials": [
+      "T_CaveSetWall02"
+    ]
+  },
+  {
+    "name": "S_CaveWall01_11",
+    "category": "Paredes",
+    "vertices": 795,
+    "triangles": 1432,
+    "size": [
+      7.765989303588867,
+      2.6518936157226562,
+      6.047749996185303
+    ],
+    "materials": [
+      "T_CaveSetWall01"
+    ]
+  },
+  {
+    "name": "S_CaveWall02_12",
+    "category": "Paredes",
+    "vertices": 698,
+    "triangles": 1252,
+    "size": [
+      6.795144081115723,
+      3.2873764038085938,
+      6.384119987487793
+    ],
+    "materials": [
+      "T_CaveSetWall01"
+    ]
+  },
+  {
+    "name": "S_CaveWall03_13",
+    "category": "Paredes",
+    "vertices": 748,
+    "triangles": 1416,
+    "size": [
+      8.865379333496094,
+      3.055826187133789,
+      6.616291522979736
+    ],
+    "materials": [
+      "T_CaveSetWall01"
+    ]
+  }
+]

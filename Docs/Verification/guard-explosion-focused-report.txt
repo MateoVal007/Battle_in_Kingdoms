@@ -1,0 +1,1 @@
+PASS Guard, crouch guard and shield impact reflect correctly left/right; right pose retained; locomotion scale restored. Worst bone/gear reflection error: 0. Bomber excluded from waves 1/2 and present from wave 3. URP explosion shader compiled and rendered across fire/smoke phases.

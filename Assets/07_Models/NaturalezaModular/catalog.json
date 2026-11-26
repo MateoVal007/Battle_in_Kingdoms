@@ -1,0 +1,940 @@
+[
+  {
+    "name": "RBi1",
+    "category": "Rocas",
+    "vertices": 234,
+    "triangles": 202,
+    "size": [
+      2.603076934814453,
+      2.8655033111572266,
+      2.479010581970215
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBi6",
+    "category": "Rocas",
+    "vertices": 188,
+    "triangles": 144,
+    "size": [
+      2.4971718788146973,
+      2.2319109439849854,
+      1.1395912170410156
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBg1",
+    "category": "Rocas",
+    "vertices": 234,
+    "triangles": 202,
+    "size": [
+      2.8890812397003174,
+      2.875082015991211,
+      2.4790103435516357
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBg6",
+    "category": "Rocas",
+    "vertices": 188,
+    "triangles": 144,
+    "size": [
+      2.543113946914673,
+      2.144937515258789,
+      1.1395912170410156
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBg2",
+    "category": "Rocas",
+    "vertices": 204,
+    "triangles": 158,
+    "size": [
+      2.521714687347412,
+      2.0991392135620117,
+      1.5462132692337036
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBg4",
+    "category": "Rocas",
+    "vertices": 186,
+    "triangles": 128,
+    "size": [
+      1.6836919784545898,
+      1.948023796081543,
+      1.2878129482269287
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBi2",
+    "category": "Rocas",
+    "vertices": 204,
+    "triangles": 158,
+    "size": [
+      2.2223639488220215,
+      2.178037643432617,
+      1.5462130308151245
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBi4",
+    "category": "Rocas",
+    "vertices": 186,
+    "triangles": 128,
+    "size": [
+      1.4463319778442383,
+      2.132601737976074,
+      1.2878130674362183
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBg3",
+    "category": "Rocas",
+    "vertices": 201,
+    "triangles": 144,
+    "size": [
+      1.7515588998794556,
+      1.7493438720703125,
+      1.4951118230819702
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBg5",
+    "category": "Rocas",
+    "vertices": 147,
+    "triangles": 92,
+    "size": [
+      1.6648571491241455,
+      1.8816051483154297,
+      0.9083610773086548
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBi3",
+    "category": "Rocas",
+    "vertices": 201,
+    "triangles": 144,
+    "size": [
+      1.7515590190887451,
+      1.7493438720703125,
+      1.4951119422912598
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RBi5",
+    "category": "Rocas",
+    "vertices": 146,
+    "triangles": 92,
+    "size": [
+      1.6471188068389893,
+      1.8702239990234375,
+      0.9083610773086548
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RG1",
+    "category": "Rocas",
+    "vertices": 180,
+    "triangles": 102,
+    "size": [
+      2.9099464416503906,
+      2.539241313934326,
+      2.377047300338745
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RG6",
+    "category": "Rocas",
+    "vertices": 160,
+    "triangles": 88,
+    "size": [
+      2.3114218711853027,
+      1.8158793449401855,
+      1.0965241193771362
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RG4",
+    "category": "Rocas",
+    "vertices": 164,
+    "triangles": 88,
+    "size": [
+      1.4162874221801758,
+      2.105398178100586,
+      1.2513701915740967
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RG2",
+    "category": "Rocas",
+    "vertices": 166,
+    "triangles": 90,
+    "size": [
+      2.5745770931243896,
+      1.9418582916259766,
+      1.4611711502075195
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RG3",
+    "category": "Rocas",
+    "vertices": 178,
+    "triangles": 104,
+    "size": [
+      1.8564462661743164,
+      1.914449691772461,
+      1.456658124923706
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RG5",
+    "category": "Rocas",
+    "vertices": 134,
+    "triangles": 72,
+    "size": [
+      1.7045001983642578,
+      1.795522689819336,
+      0.90836101770401
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "ClifGg2",
+    "category": "Acantilados",
+    "vertices": 589,
+    "triangles": 356,
+    "size": [
+      4.688119888305664,
+      8.728985786437988,
+      6.896512508392334
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "ClifGi1",
+    "category": "Acantilados",
+    "vertices": 596,
+    "triangles": 356,
+    "size": [
+      4.616708755493164,
+      9.212352752685547,
+      6.710610389709473
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeRC1",
+    "category": "Arboles",
+    "vertices": 180,
+    "triangles": 336,
+    "size": [
+      5.0065507888793945,
+      6.047206878662109,
+      7.448407173156738
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeRC2",
+    "category": "Arboles",
+    "vertices": 151,
+    "triangles": 282,
+    "size": [
+      4.889369964599609,
+      5.617130279541016,
+      7.804037094116211
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeRC3",
+    "category": "Arboles",
+    "vertices": 241,
+    "triangles": 448,
+    "size": [
+      6.04852819442749,
+      5.8344573974609375,
+      10.100137710571289
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeVC",
+    "category": "Arboles",
+    "vertices": 969,
+    "triangles": 1252,
+    "size": [
+      6.376829624176025,
+      6.1198272705078125,
+      10.79438591003418
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeDC",
+    "category": "Arboles",
+    "vertices": 664,
+    "triangles": 504,
+    "size": [
+      5.288134574890137,
+      5.1382293701171875,
+      11.491994857788086
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "GrassClump1",
+    "category": "Vegetacion",
+    "vertices": 600,
+    "triangles": 480,
+    "size": [
+      1.902933120727539,
+      2.322967529296875,
+      0.9141020178794861
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeR1",
+    "category": "Arboles",
+    "vertices": 180,
+    "triangles": 336,
+    "size": [
+      6.150667190551758,
+      6.31341552734375,
+      7.448406219482422
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeR2",
+    "category": "Arboles",
+    "vertices": 151,
+    "triangles": 282,
+    "size": [
+      5.746334075927734,
+      6.281352996826172,
+      8.043601989746094
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "FlowerY1",
+    "category": "Flores",
+    "vertices": 306,
+    "triangles": 232,
+    "size": [
+      0.9841361045837402,
+      1.0326838493347168,
+      1.1725599765777588
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeR3",
+    "category": "Arboles",
+    "vertices": 241,
+    "triangles": 448,
+    "size": [
+      5.462623596191406,
+      5.577827453613281,
+      10.100139617919922
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeRF",
+    "category": "Arboles",
+    "vertices": 671,
+    "triangles": 1246,
+    "size": [
+      7.144598484039307,
+      7.599529266357422,
+      9.017984390258789
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeV2",
+    "category": "Arboles",
+    "vertices": 981,
+    "triangles": 1276,
+    "size": [
+      6.821244239807129,
+      6.674528121948242,
+      11.26284408569336
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeV1",
+    "category": "Arboles",
+    "vertices": 969,
+    "triangles": 1252,
+    "size": [
+      6.376829147338867,
+      6.1198296546936035,
+      10.794386863708496
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeV3",
+    "category": "Arboles",
+    "vertices": 981,
+    "triangles": 1276,
+    "size": [
+      6.420076370239258,
+      6.782251358032227,
+      10.545244216918945
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Clump2",
+    "category": "Vegetacion",
+    "vertices": 100,
+    "triangles": 80,
+    "size": [
+      1.8699584007263184,
+      2.092233657836914,
+      0.8721562027931213
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Clump8",
+    "category": "Vegetacion",
+    "vertices": 336,
+    "triangles": 309,
+    "size": [
+      1.488279104232788,
+      1.7397185564041138,
+      1.4175128936767578
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Clump7",
+    "category": "Vegetacion",
+    "vertices": 336,
+    "triangles": 309,
+    "size": [
+      1.9633516073226929,
+      1.8077490329742432,
+      1.5555299520492554
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "FlowerB1",
+    "category": "Flores",
+    "vertices": 306,
+    "triangles": 232,
+    "size": [
+      1.0140278339385986,
+      0.9659991264343262,
+      1.1499528884887695
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Clump6",
+    "category": "Vegetacion",
+    "vertices": 266,
+    "triangles": 264,
+    "size": [
+      1.9244985580444336,
+      1.8492870330810547,
+      0.7224060893058777
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RB1",
+    "category": "Rocas",
+    "vertices": 180,
+    "triangles": 102,
+    "size": [
+      2.8826708793640137,
+      2.8767447471618652,
+      2.377047300338745
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RB6",
+    "category": "Rocas",
+    "vertices": 160,
+    "triangles": 88,
+    "size": [
+      2.5054125785827637,
+      2.0481224060058594,
+      1.0965242385864258
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RB4",
+    "category": "Rocas",
+    "vertices": 166,
+    "triangles": 88,
+    "size": [
+      1.416285514831543,
+      2.1053991317749023,
+      1.2513703107833862
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RB2",
+    "category": "Rocas",
+    "vertices": 166,
+    "triangles": 90,
+    "size": [
+      2.36275577545166,
+      2.169677734375,
+      1.4611709117889404
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "ClifBg2",
+    "category": "Acantilados",
+    "vertices": 602,
+    "triangles": 356,
+    "size": [
+      4.688118934631348,
+      7.983674049377441,
+      6.896512031555176
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "ClifBg1",
+    "category": "Acantilados",
+    "vertices": 595,
+    "triangles": 351,
+    "size": [
+      4.614860534667969,
+      9.147526741027832,
+      6.498717784881592
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RB3",
+    "category": "Rocas",
+    "vertices": 178,
+    "triangles": 104,
+    "size": [
+      1.8075346946716309,
+      1.844522476196289,
+      1.456658124923706
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "RB5",
+    "category": "Rocas",
+    "vertices": 134,
+    "triangles": 72,
+    "size": [
+      1.6245384216308594,
+      1.6925849914550781,
+      0.9083611369132996
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Clump3",
+    "category": "Vegetacion",
+    "vertices": 192,
+    "triangles": 220,
+    "size": [
+      1.2826123237609863,
+      1.7050776481628418,
+      0.5962840914726257
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Clump5",
+    "category": "Vegetacion",
+    "vertices": 266,
+    "triangles": 264,
+    "size": [
+      1.7872228622436523,
+      1.875391960144043,
+      0.7224059700965881
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeD2",
+    "category": "Arboles",
+    "vertices": 450,
+    "triangles": 504,
+    "size": [
+      5.331142425537109,
+      4.728446960449219,
+      11.130017280578613
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeD1",
+    "category": "Arboles",
+    "vertices": 450,
+    "triangles": 504,
+    "size": [
+      5.288135528564453,
+      5.138228416442871,
+      11.49199390411377
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeD3",
+    "category": "Arboles",
+    "vertices": 450,
+    "triangles": 504,
+    "size": [
+      4.823081970214844,
+      5.318598747253418,
+      11.058828353881836
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Clump4",
+    "category": "Vegetacion",
+    "vertices": 192,
+    "triangles": 220,
+    "size": [
+      1.3132805824279785,
+      1.7401494979858398,
+      0.5962840914726257
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "ClifBi1",
+    "category": "Acantilados",
+    "vertices": 601,
+    "triangles": 356,
+    "size": [
+      4.798944473266602,
+      8.942380905151367,
+      6.423535346984863
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "FlowerR1",
+    "category": "Flores",
+    "vertices": 240,
+    "triangles": 288,
+    "size": [
+      1.691877841949463,
+      1.471869945526123,
+      1.622959852218628
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "FlowerC1",
+    "category": "Flores",
+    "vertices": 240,
+    "triangles": 288,
+    "size": [
+      1.5372815132141113,
+      1.5763154029846191,
+      1.525299072265625
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Crystel2",
+    "category": "Cristales",
+    "vertices": 324,
+    "triangles": 108,
+    "size": [
+      1.8186860084533691,
+      1.7578315734863281,
+      1.8657878637313843
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Crystel1",
+    "category": "Cristales",
+    "vertices": 324,
+    "triangles": 108,
+    "size": [
+      1.4542479515075684,
+      1.5749139785766602,
+      1.8657879829406738
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "Log",
+    "category": "Troncos",
+    "vertices": 202,
+    "triangles": 270,
+    "size": [
+      2.452164649963379,
+      6.154990196228027,
+      2.1381499767303467
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "MushrumY1",
+    "category": "Hongos",
+    "vertices": 256,
+    "triangles": 452,
+    "size": [
+      1.3125498294830322,
+      1.668900489807129,
+      1.1154989004135132
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "MushrumC1",
+    "category": "Hongos",
+    "vertices": 256,
+    "triangles": 452,
+    "size": [
+      1.3008737564086914,
+      1.594350814819336,
+      1.1233632564544678
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "FlowerR2",
+    "category": "Flores",
+    "vertices": 228,
+    "triangles": 228,
+    "size": [
+      2.281461238861084,
+      2.5177831649780273,
+      0.7388400435447693
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "FlowerM1",
+    "category": "Flores",
+    "vertices": 228,
+    "triangles": 228,
+    "size": [
+      2.3934361934661865,
+      2.7011842727661133,
+      0.7388401627540588
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "FlowerY2",
+    "category": "Flores",
+    "vertices": 228,
+    "triangles": 228,
+    "size": [
+      2.810342311859131,
+      2.3873648643493652,
+      0.738839864730835
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeO1",
+    "category": "Arboles",
+    "vertices": 74,
+    "triangles": 144,
+    "size": [
+      4.87767219543457,
+      2.465322494506836,
+      6.871682643890381
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "TreeO2",
+    "category": "Arboles",
+    "vertices": 95,
+    "triangles": 179,
+    "size": [
+      4.479528427124023,
+      5.232431411743164,
+      7.137164115905762
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  },
+  {
+    "name": "ClifGg3",
+    "category": "Acantilados",
+    "vertices": 595,
+    "triangles": 351,
+    "size": [
+      4.614862442016602,
+      9.147525787353516,
+      6.49871826171875
+    ],
+    "materials": [
+      "GRADIENT"
+    ]
+  }
+]

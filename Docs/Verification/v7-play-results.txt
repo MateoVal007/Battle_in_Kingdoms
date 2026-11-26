@@ -1,0 +1,25 @@
+PASS Estrellas suficientes para rutas y una vida por jugador: 274
+PASS Identificadores únicos para sincronizar estrellas
+PASS 99 estrellas del guerrero no cambian contador del mago
+PASS La misma estrella no se cuenta dos veces
+PASS 100 estrellas dan una vida y reinician contador
+PASS Mago recoge sus propias copias y obtiene su vida
+PASS Derribado no recoge estrellas
+PASS Vida extra reanima desde checkpoint
+PASS Reanimación concede tres segundos de protección
+PASS No gasta vida estando vivo ni duplica reanimación
+PASS Salud del compañero sigue reanimando sin gastar vida extra
+PASS Daño inicia recuperación de tres segundos
+PASS No recibe daño acumulado inmediatamente
+PASS Sigue invulnerable tras un segundo
+PASS Vuelve a recibir daño pasados los tres segundos
+PASS Recogida física con CharacterController y trigger
+PASS Caer encima de enemigo causa daño de contacto
+PASS El salto no mata ni daña al enemigo como un pisotón
+PASS Permanecer en contacto respeta la recuperación
+PASS Campo esférico visible con protección activa
+PASS Esfera redonda translúcida rodea el cuerpo
+PASS Cambiar magia oculta el campo
+PASS Al agotarse protección desaparece el campo
+PASS Reinicio conjunto no repone estrellas ya recogidas
+PASS Resultado completo v7

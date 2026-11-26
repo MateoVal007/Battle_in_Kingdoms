@@ -1,0 +1,16 @@
+{
+  "surfaces": [
+    {
+      "name": "Grass1_Mat",
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metal": 0.0,
+      "base": "Grass1_base.png",
+      "normal": "Grass1_normal.png"
+    }
+  ]
+}

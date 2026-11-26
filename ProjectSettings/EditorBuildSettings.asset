@@ -6,7 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/00_Scenes/Pueblo_Online.unity
+    guid: 921002b6944a3ba4b89e2461c88d2501
+  - enabled: 1
     path: Assets/00_Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/00_Scenes/Supervivencia_02.unity
+    guid: 4a7fc98c83b48a04389ac8f8e0ee5a47
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

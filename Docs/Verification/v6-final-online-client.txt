@@ -1,0 +1,18 @@
+Role: Client
+Players: 2
+Transport: Photon Fusion Host/Client
+Host flags: 524287
+PASS host: connection, inputs, chest, revival, gate, postures, inventory, slope, pursuit, arrows, whip, enemy death
+PASS both player positions replicated
+PASS chest opening replicated
+PASS defeat and revival replicated
+PASS cooperative gate replicated
+PASS starting equipment pickup replicated
+PASS crouch and overhead shield replicated
+PASS item selection, activation and remaining charge replicated
+PASS pursuing enemy position replicated
+PASS hill archer arrow replicated
+PASS whip attack warning replicated
+PASS defeated guardian removed on both peers
+PASS equipment wear and loss replicated
+PASS patrol and guardian return on host

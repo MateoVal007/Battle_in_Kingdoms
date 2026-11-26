@@ -1,0 +1,16 @@
+{
+  "surfaces": [
+    {
+      "name": "Material.005",
+      "color": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metal": 0.0,
+      "base": "Goblin_base.png",
+      "normal": "Goblin_normal.png"
+    }
+  ]
+}
